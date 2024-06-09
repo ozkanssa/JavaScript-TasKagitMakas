@@ -1,2 +1,2 @@
 # HTML - CSS - JavaScript
-##dillerini kullanarak taş kağıt makas oyunu.
+dillerini kullanarak; taş, kağıt, makas oyununu yaptım.
