@@ -1,2 +1,1 @@
-# HTML - CSS - JavaScript
-dillerini kullanarak; taş, kağıt, makas oyununu yaptım.
+HTML, CSS, JAVASCRIPT dilleri ile bir oyun yaptım, eksiklerimi & hatalarımı belirtirseniz mutlu olurum.
