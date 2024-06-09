@@ -1,0 +1,91 @@
+*  {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    margin-top: 150px;
+    user-select: none;
+}
+
+#baslik {
+    font-family: "Pant Sans", sans-serif;
+    font-weight: 800;
+}
+
+#tas {
+    margin: 0 10px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    z-index: -1;
+}
+
+#kagit {
+    margin: 0 10px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+#makas {
+    margin: 0 10px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+#loading {
+    margin-top: -130px;
+    display: none;
+}
+
+#yazi-sonuc {
+    font-family: "Pant Sans", sans-serif;
+    font-size: 50px;
+    display: none;
+}
+
+#yazi-sen {
+    font-family: "Pant Sans", sans-serif;
+    display: none;
+}
+
+#yazi-rakip {
+    font-family: "Pant Sans", sans-serif;
+    display: none;
+}
+
+#buton-yeniden-oyna {
+    align-items: center;
+    background-color: #0A66C2;
+    border: 0;
+    border-radius: 100px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 20px;
+    max-width: 480px;
+    min-height: 40px;
+    min-width: 0px;
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    touch-action: manipulation;
+    transition: 0.3s ease;
+    user-select: none;
+    vertical-align: middle;
+    display: none;
+}
+
+#buton-yeniden-oyna:hover { 
+    background-color: #16437E;
+    min-height: 45px;
+    color: #ffffff;
+    transition: 0.3s ease;
+}
